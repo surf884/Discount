@@ -1,4 +1,4 @@
-                                                                 # Discount
+# Discount
 
 Calculation with a discount. For the quantity taken figure 10, for the price 250, /100 to determine 1%, 30 discount percentage applied. 
 
